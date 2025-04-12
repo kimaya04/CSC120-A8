@@ -61,6 +61,7 @@ public class CampusMap {
         myMap.addBuilding(new Building("Seelye Hall", "7 Seelye Drive, Northampton MA 01063", 4));
         myMap.addBuilding(new Building());
         System.out.println(myMap);
+        
     }
     
 }
